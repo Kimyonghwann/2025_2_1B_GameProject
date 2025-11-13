@@ -91,7 +91,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item: {fileID: 0}
-  amount: 0
+  amount: 50
   itemIcon: {fileID: 4465197193926996854}
   amountText: {fileID: 8836494361485858730}
   emptySlotImage: {fileID: 0}
